@@ -1,0 +1,17 @@
+{
+  "name": "@pqina/angular-pintura",
+  "version": "9.0.0",
+  "description": "Pintura Image Editor Components for use with Angular",
+  "author": "Rik Schennink at PQINA",
+  "homepage": "https://pqina.nl/pintura/",
+  "license": "https://pqina.nl/pintura/license/",
+  "peerDependencies": {
+    "@angular/common": ">=15.0.0",
+    "@angular/core": ">=15.0.0",
+    "@pqina/pintura": "8.x"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "sideEffects": false
+}
