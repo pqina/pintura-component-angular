@@ -1,5 +1,9 @@
 # Changelog
 
+## 9.0.3 | 2024-05-15
+
+- Add more Inputs to abstract component.
+
 ## 9.0.2 | 2023-05-23
 
 - Make backwards compatible with Angular 12 by building with Angular 13.
