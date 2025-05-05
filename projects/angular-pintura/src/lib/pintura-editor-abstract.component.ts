@@ -335,6 +335,7 @@ export class PinturaEditorAbstractComponent<T> implements OnInit {
     env: any,
     redraw: () => void
   ) => PinturaNode[];
+  @Input() cropMaskOpacity?: number;
 
   @Input() annotateActiveTool?: string;
   @Input() annotateEnableButtonFlipVertical?: boolean;

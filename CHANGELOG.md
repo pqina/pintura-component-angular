@@ -1,5 +1,9 @@
 # Changelog
 
+## 9.0.4 | 2025-05-05
+
+- Add more Inputs to abstract component.
+
 ## 9.0.3 | 2024-05-15
 
 - Add more Inputs to abstract component.
